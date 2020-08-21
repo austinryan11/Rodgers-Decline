@@ -12,8 +12,7 @@ PFF grades tell a similar but not quite as rosy of a story. From 2008, Rodgers f
 If people in the NFL still consider Rodgers a near top talent and PFF grade has him slightly outside the top 5 why are the efficiency stats so much more sour on him recently? Most of the advanced efficiency metrics rank the future Hall of Famer closer to league average than top 5. Expected Points Added (EPA), ESPN's Quarterback Rating (QBR), Football Outsiders Defense-adjusted Value Over Average (DVOA), and Completion Percentage Over Expectation (CPOE) suggest Rodgers hasn't been a tier 1 quarterback since 2016.
 
 The Computer Cowboy's EPA + CPOE composite metric on [rbsdm.com](https://rbsdm.com/stats/stats/) ranked Rodgers as the 16th best since 2016, one spot below Ryan Fitzpatrick and three spots below Kirk Cousins. 
-
-<img src="C:/Users/ausryan/Desktop/MBA/packeRanalytics/98_proj/rodgers/git/Rodgers/rbsdm.png" width="1475" />
+![](rbsdm.PNG)
 
 [Football Outsiders DVOA](https://www.footballoutsiders.com/stats/nfl/qb/2019) placed Rodgers outside the top 10 in each of the last three seasons. [QBR](https://www.espn.com/nfl/qbr) lists Rodgers one spot below Andy Dalton in 2018 (16th) and one spot ahead of Jacoby Brissett in 2019 (20th).  
 
