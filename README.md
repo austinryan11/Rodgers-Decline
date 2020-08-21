@@ -50,7 +50,7 @@ ESPN's QBR is scaled to equate a 50 rating with average play and Pro Bowl-level 
 
 We are assigning EPA and CPOE to Rodgers in the above plots. However, a more apt description would be EPA or CPOE of the Packers passing offense in plays where Aaron Rodgers was the quarterback. Coaching, playcalling, and supporting cast are responsible for some portion of the output but we do know the quarterback plays a very large role.
 
-###Digging Deeper
+### Digging Deeper
 What else can the publicly available data tell us about what part of Rodgers game is declining in the eyes of advanced efficiency metrics? One feature in the data we can use to look at EPA and CPOE at a more granular level is air yards. The air yards a pass gets assigned is the distance the ball traveled in the air past the line of scrimmage (not the distance traveled from the QBs release to the receiver). 
 
 
