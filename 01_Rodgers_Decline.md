@@ -1,8 +1,3 @@
----
-output:
-  html_document:
-    keep_md: true
----
 
 # A Look Into Rodgers Efficiency Decline
 Austin Ryan | @packeRanalytics
@@ -79,7 +74,7 @@ The below plot looks at EPA per target and CPOE by targeted receiver for passes 
 
 We see targeted receivers from '08 to '14 are largely clustered in the upper right meaning those targets were completed more frequently than we would expect and they were very efficient in terms of EPA. The only targeted receivers in that quadrant from '15 to '19 are Jordy Nelson, Davante Adams, and Allen Lazards 50 targets. The dispersion of yellow and white dots shouldn't be a surprise given what we know about Rodgers numbers as a whole over those time frames. To give this some more context let's think about the situation Rodgers came into in 2008. 
 
-####2008 - 2014
+#### 2008 - 2014
 Rodgers spent the 2005 through 2007 seasons on the bench behind Favre learning Mike McCarthy's offense. Donald Driver was entering his age 33 season coming of back-to-back Pro Bowl selections in 2006 and 2007. Late 2006 2nd round selection Greg Jennings was entering his 3rd season after emerging as a blossoming star while posting an impressive 11 yard per target 12 touchdown season in '07. Late 2007 3rd round pick James Jones was entering his second season. Green Bay general manager Ted Thompson also invested an early 2nd round pick and late 3rd on pass catchers in the 2008 draft by selecting Jordy Nelson and Jermichael Finley.
 
 These five receivers accounted for nearly 80% of Rodgers targets in his first three seasons en route to the Super Bowl XLV victory in February 2011. A few months later in 2011 Thompson & Co spent another 2nd round pick on a wide receiver (Randall Cobb). The continuity from the aforementioned five pass catchers and the addition of Cobb helped spur Rodgers to one of the best statistical seasons ever in 2011. In a [2011 ESPN The Magazine article](https://www.espn.com/nfl/story/_/id/7295185/nfl-green-bay-aaron-rodgers-greatest-season-qb-ever-had) Rodgers spoke to what helped contribute to his phenomal accuracy. He was quoted saying the following:
@@ -90,7 +85,7 @@ He went on to say the fundamentals come first, "...then you have to become an ex
 
 Rodgers efficiency was largely maintained over the next three seasons despite losing Driver and Jennings after the 2012 season along with Jones and Finley after the 2013 season. Rodgers added his 2nd MVP award in 2014 when Nelson earned a career high number of targets and another 2nd rount talent, Davante Adams, was added to the mix. 
 
-####2015-2016
+#### 2015-2016
 Green Bay's passing efficiency dropped to abysmal levels in 2015 after Nelson tore his ACL in the preseason. The efficiency didn't immediately return to elite when Nelson came back in 2016 as the Packers sputtered out to a 4-6 start. Doug Farrar wrote about [Green Bay's passing game regression](https://bleacherreport.com/articles/2670101-nfl1000-whats-wrong-with-aaron-rodgers-and-the-green-bay-packers) in October 2016.
 
 "Over time, Rodgers has overcompensated for the things that offense doesn't provide to the point where it's broken him as a mechanically consistent player."
@@ -101,10 +96,10 @@ Greg Cosell also commented "What continues to stand out is that his accuracy is 
 
 If you refer back to Rodgers moving average EPA and CPOE plots the passing offense was not just below top 5 but considerably lower. It is fair to say Rodgers probably not at a "good level" when Nelson exited the line up and he didn't trust what his guys were doing or where they were going to be. However, after Rodgers "run-the-table" remarks something changed and the offense turned in one of the better stretches of Rodgers career in terms of efficiency over the next nine games.
 
-####2017
+#### 2017
 In 2017 Rodgers EPA and CPOE metrics were okay before the collarbone injury in week 6 (.16 EPA/dropback and CPOE +2.2%). He did return several weeks later in an effort to make a run at the playoffs but had a very poor performance which. Ultimately the 301 dropbacks placed Rodgers 14 overall in the rbsdm.com EPA and CPOE composite metric.
 
-####2018
+#### 2018
 Passing game continuity took a hit in 2018 as Jordy Nelson moved on to the Raiders. Adams and Cobb returned but the front office hadn't been using draft capital on pass catchers like they did earlier in Rodgers career. Since taking Adams in the 2nd round of the 2014 draft Green Bay used two 5th and two 7th round selections on pass catchers from '15 to '17. Jimmy Graham was signed to a big deal entering his age 32 season two years removed from a torn patellar tendon to fill some of the void. Three receivers were also added in the 2018 draft although the earliest selection was in round 4 at pick 144. To make matter worse Rodgers suffered a tibial plateau fracture and a sprained MCL in week 1. The shakeup in personnel and coaching compounded by injury surely impacted the timing and rhythm and subsequent efficiency numbers. 
 
 Another thing that doesn't help efficiency stats are throwaways. The most glaring numbers from 2018 the eye popping number of throwaways. Per [PFF](https://www.pff.com/news/pro-aaron-rodgers-set-to-shatter-throwaway-record#:~:text=Rodgers%20has%20amassed%2032%20throwaways,since%20the%20start%20of%202012.) Rodgers threw the ball away once every 26 dropbacks from 2008 to 2017 but jumped to an astonishing once every 11 dropbacks in 2018. 
@@ -113,12 +108,12 @@ PFF Steve and Sam posited on the [PFF NFL Show](https://open.spotify.com/episode
 
 If we refer back to the initial plot we see Rodgers ended 2018 with a rolling 300 play average of .13 per play. In early 2019 under LaFleur Rodgers rolling average crept back into elite territory by the end of the week 8 matchup against Kansas City. Coincidentally, Rodgers posted an astonishing 95.5 QBR, .96 EPA per dropback, and perfect 158.3 passer rating in week 7 immediatly after Ben Baldwin's [No longer elite](https://theathletic.com/1200883/2019/10/16/no-longer-elite-what-the-numbers-tell-us-about-aaron-rodgers/) article on Rodgers. But then the next 300 dropbacks that cover week 9 at the Chargers to mid-game week 17 at Detroit we see Rodgers rolling average collapse down to -.05 per play.
 
-####2019
+#### 2019
 Prior to the 2019 Season Josh Hermsmeyer posed the question [Are We Sure Aaron Rodgers Is Still An Elite Quarterback?](https://fivethirtyeight.com/features/are-we-sure-aaron-rodgers-is-still-an-elite-quarterback/) at fivethirtyeight. Hermsmeyer noted CPOE decline starting in 2015 and speculated that the Packer's underperformance could be due to a subpar play-action passing game. From 2015 to 2018 Hermsmeyer found Rodgers QBR was 32nd out of 41 in Raw QBR and could possibly be bolstered by a better play-action game with LaFleur in 2019. 
 
 I charted play-action and personnel info in 2019 to pair this with the EPA and CPOE play by play data from nflscrapR to see how this played out. Rodgers CPOE on play-action was +5.6% as opposed to 0.2% for non play-action passes, however, EPA per play was the same at .17. This would suggest Rodgers wasn't hitting the explosive downfield shots any more frequently on play-action. One glimmer of hope for Green Bay fans entering 2020 is that EPA per play on play-action plays with 2 or fewer wide receivers on the field was .24 per play and .08 per play in 11 personnel. 
 
-####What's next?
+#### What's next?
 The numbers tell us Green Bay has not completed passes and moved the chains at the rate an elite offense would lately. In 2019 we saw Rodgers flirt with elite level efficiency numbers through the first 8 weeks. But that all came crashing down and we rapidly approached the abysmal 2015 levels in later weeks. 
 
 Maybe Rodgers will master the offense and get back to attacking instead of reaction and 2020 brings a big year two leap. Maybe without several elite weapons and an intimate comfortability with the scheme Rodgers just doesn't see things well and we shouldn't expect any bounce in year two. Maybe the confluence of factors that contributed to the previous elite play will never come back and we will see flashes of brilliance littered with throwaways. 
